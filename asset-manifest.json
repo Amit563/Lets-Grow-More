@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Lets-Grow-More/static/css/main.b4784789.css",
+    "main.css": "/Lets-Grow-More/static/css/main.17667c25.css",
     "main.js": "/Lets-Grow-More/static/js/main.2a1f55ca.js",
     "static/js/787.61488e4c.chunk.js": "/Lets-Grow-More/static/js/787.61488e4c.chunk.js",
     "index.html": "/Lets-Grow-More/index.html",
-    "main.b4784789.css.map": "/Lets-Grow-More/static/css/main.b4784789.css.map",
+    "main.17667c25.css.map": "/Lets-Grow-More/static/css/main.17667c25.css.map",
     "main.2a1f55ca.js.map": "/Lets-Grow-More/static/js/main.2a1f55ca.js.map",
     "787.61488e4c.chunk.js.map": "/Lets-Grow-More/static/js/787.61488e4c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4784789.css",
+    "static/css/main.17667c25.css",
     "static/js/main.2a1f55ca.js"
   ]
 }
